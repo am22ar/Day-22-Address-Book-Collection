@@ -1,7 +1,7 @@
 package com.addressBook;
 import java.util.*;
 public class Contact {
-////variables representation////
+	 ////variables representation////
     String firstName;
     String lastName;
     String address;
